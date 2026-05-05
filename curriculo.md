@@ -1,0 +1,53 @@
+LUAN SILVA AGUIAR
+Estudante de Ciência da Computação | C, C++, Java
+Email: kohee.swe@gmail.com
+GitHub: https://github.com/Icd-Kohi
+
+#### RESUMO PROFISSIONAL
+Estudante de Ciência da Computação com formação técnica em Eletrônica, com experiência no desenvolvimento de automações e integração de sistemas.
+Possuo conhecimento em programação (C, C++, Java), interesse em aplicações de automação industrial, otimização e desenvolvimento de software em nível de hardware. Experiência prática com sistemas embarcados.
+Atuei na criação de sistemas que automatizam processos operacionais, gerando ganhos significativos de eficiência. Busco oportunidade para aplicar e desenvolver soluções tecnológicas voltadas à indústria e inovação.
+
+#### HABILIDADES TÉCNICAS
+Programação:
+C, C++, Java, JavaScript, Python
+Automação & Sistemas:
+Automação de processos, integração de APIs, scripts automatizados
+Fundamentos de Engenharia:
+Lógica digital, eletrônica básica, sistemas computacionais
+Backend:
+Spring Boot, Node.js, REST APIs
+Ferramentas:
+Linux, Git, GitHub Actions, Postman, Docker, AWS
+Banco de Dados:
+MySQL, PostgreSQL
+
+#### PROJETOS & EXPERIÊNCIAS
+Desenvolvimento de Software - Lyra’s Pizza Delivery
+<i> Desenvolvimento de Software Independente | 2020 – 2023
+• Desenvolvi sistema automatizado de recebimento e processamento de pedidos integrado a APIs externas.
+• Automatizei fluxos operacionais, reduzindo tarefas manuais e aumentando a eficiência em 300%.
+• Criei interface de controle e monitoramento de pedidos em tempo real.
+• Estruturei sistema com foco em confiabilidade e escalabilidade.
+Tecnologias: Java, JavaFX, Angular, MySQL, REST APIs
+
+###### Projetos Técnicos
+Detecção de proximidade com alerta sonoro
+• Desenvolvimento de sistema utilizando sensor de proximidade integrado a Arduino Uno para detecção de objetos em tempo real.
+• Aplicação de conceitos de eletrônica embarcada, processamento de sinais e controle básico.
+Tecnologias: C, Arduino Uno, sensor de proximidade, atuadores (buzzer)
+• Servidor HTTP multi-thread (Rust)
+- Implementação de concorrência e controle de processos.
+• Ferramentas CLI e manipulação de dados
+- Scripts para automação de tarefas repetitivas.
+
+#### EDUCAÇÃO
+Bacharel em Ciências da Computação
+Universidade do Estado do Rio de Janeiro (UERJ)
+Conclusão esperada em: Julho de 2028
+Ensino Técnico em Eletrônica
+FAETEC
+
+#### IDIOMAS
+Português: Nativo
+Inglês: C1 – Avançado (Fala, Leitura, Escrita)
