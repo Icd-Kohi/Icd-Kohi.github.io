@@ -1,53 +1,45 @@
 LUAN SILVA AGUIAR
-Estudante de Ciência da Computação | C, C++, Java
+Desenvolvedor de Software | Java Backend | Spring Boot | Angular
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
-Estudante de Ciência da Computação com formação técnica em Eletrônica, com experiência no desenvolvimento de automações e integração de sistemas.
-Possuo conhecimento em programação (C, C++, Java), interesse em aplicações de automação industrial, otimização e desenvolvimento de software em nível de hardware. Experiência prática com sistemas embarcados.
-Atuei na criação de sistemas que automatizam processos operacionais, gerando ganhos significativos de eficiência. Busco oportunidade para aplicar e desenvolver soluções tecnológicas voltadas à indústria e inovação.
+Estudante de Ciência da Computação com experiência prática no desenvolvimento de sistemas backend em Java (Spring Boot) e aplicações web com Angular.
+Atuei na criação de soluções reais com impacto direto em operações comerciais, incluindo automação de pedidos e integração com APIs.
+Possuo sólidos conhecimentos em Linux, bancos de dados relacionais e desenvolvimento de aplicações escaláveis. 
+Busco oportunidade para aplicar e expandir minhas habilidades em engenharia de software.
 
 #### HABILIDADES TÉCNICAS
-Programação:
-C, C++, Java, JavaScript, Python
-Automação & Sistemas:
-Automação de processos, integração de APIs, scripts automatizados
-Fundamentos de Engenharia:
-Lógica digital, eletrônica básica, sistemas computacionais
-Backend:
-Spring Boot, Node.js, REST APIs
-Ferramentas:
-Linux, Git, GitHub Actions, Postman, Docker, AWS
+Linguagens:
+Java, C, C++, C#, Rust, Python, Javascript, Typescript
+Backend & Frameworks:
+Spring Boot, Quarkus, JavaFX, Junit, Node.js, REST APIs
+Frontend:
+Angular, HTML5, CSS3, Sass
 Banco de Dados:
 MySQL, PostgreSQL
+Ferramentas & Plataformas:
+Git, GitHub Actions, Postman, Linux, Docker, AWS, Office365
+Outras:
+Scripts de automação, Aplicações CLI, Estruturas de dados
 
-#### PROJETOS & EXPERIÊNCIAS
-Desenvolvimento de Software - Lyra’s Pizza Delivery
-<i> Desenvolvimento de Software Independente | 2020 – 2023
-• Desenvolvi sistema automatizado de recebimento e processamento de pedidos integrado a APIs externas.
-• Automatizei fluxos operacionais, reduzindo tarefas manuais e aumentando a eficiência em 300%.
-• Criei interface de controle e monitoramento de pedidos em tempo real.
-• Estruturei sistema com foco em confiabilidade e escalabilidade.
-Tecnologias: Java, JavaFX, Angular, MySQL, REST APIs
-
-###### Projetos Técnicos
-Detecção de proximidade com alerta sonoro
-• Desenvolvimento de sistema utilizando sensor de proximidade integrado a Arduino Uno para detecção de objetos em tempo real.
-• Aplicação de conceitos de eletrônica embarcada, processamento de sinais e controle básico.
-Tecnologias: C, Arduino Uno, sensor de proximidade, atuadores (buzzer)
-• Servidor HTTP multi-thread (Rust)
-- Implementação de concorrência e controle de processos.
-• Ferramentas CLI e manipulação de dados
-- Scripts para automação de tarefas repetitivas.
+#### PROJETOS
+Monitor de preços dinâmico
+• Aplicação com interface CLI utilizando JavaScript assíncrono.
+• Implementação de requisições periódicas para monitoramento de preços de produtos via API.
+Outros:
+• Fixador de janelas windows (Java).
+• Ferramentas CLI para manipulação de arquivos e I/O (Java).
+• Servidor HTTP multi-thread (Rust).
+• Interpretador para uma linguagem de programação simples (Java).
 
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação
-Universidade do Estado do Rio de Janeiro (UERJ)
-Conclusão esperada em: Julho de 2028
-Ensino Técnico em Eletrônica
-FAETEC
+<i> Universidade do Estado do Rio de Janeiro (UERJ)
+<i> Conclusão esperada em: julho de 2028
+Técnico em Eletrônica
+<i> FAETEC
 
 #### IDIOMAS
-Português: Nativo
+Portuguese: Nativo
 Inglês: C1 – Avançado (Fala, Leitura, Escrita)
