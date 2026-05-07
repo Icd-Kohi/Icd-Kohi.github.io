@@ -216,7 +216,7 @@ const renderResume = (source) => {
 };
 
 const showCurrentResume = () => {
-    renderResume(currentLanguage === 'pt' ? portugueseResume : englishWebResume);
+    renderResume(currentLanguage === 'pt' ? portugueseResume : englishResume);
     langButton.textContent = currentLanguage === 'pt' ? '[ english ]' : '[ pt-BR ]';
     document.documentElement.lang = currentLanguage === 'pt' ? 'pt-BR' : 'en';
 };
