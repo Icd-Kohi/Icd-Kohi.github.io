@@ -221,7 +221,7 @@ const showCurrentResume = () => {
     document.documentElement.lang = currentLanguage === 'pt' ? 'pt-BR' : 'en';
 };
 
-fetch('curriculo.md')
+fetch('curriculo-web.md')
     .then((response) => {
         if (!response.ok) throw new Error('Could not load curriculo.md');
         return response.text();
