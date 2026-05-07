@@ -1,0 +1,148 @@
+:root {
+    --bg: #0b0b0b;
+    --paper: #111;
+    --text: #e6e6e6;
+    --muted: #a5a5a5;
+    --line: #666;
+    --link: #f2f2f2;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.58 ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+
+.cv-shell {
+    width: min(920px, 100%);
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    border-bottom: 1px solid var(--line);
+    color: var(--muted);
+    padding-bottom: 12px;
+}
+
+button {
+    flex: 0 0 auto;
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--line);
+    padding: 6px 10px;
+    font: inherit;
+    cursor: pointer;
+}
+
+button:hover,
+button:focus-visible {
+    background: #1b1b1b;
+    outline: none;
+}
+
+.cv {
+    background: var(--paper);
+    border: 1px solid var(--line);
+    margin-top: 18px;
+    padding: clamp(18px, 4vw, 34px);
+}
+
+.cv h1,
+.cv h2,
+.cv p,
+.cv ul {
+    margin: 0;
+}
+
+.cv h1 {
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    line-height: 1.1;
+    letter-spacing: 0;
+}
+
+.cv .subtitle {
+    color: var(--muted);
+    margin-top: 6px;
+}
+
+.cv .contact {
+    display: grid;
+    gap: 2px;
+    margin-top: 14px;
+}
+
+.cv section {
+    border-top: 1px solid var(--line);
+    margin-top: 24px;
+    padding-top: 18px;
+}
+
+.cv h2 {
+    color: var(--muted);
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.cv p,
+.cv ul {
+    margin-top: 10px;
+}
+
+.cv ul {
+    padding-left: 22px;
+}
+
+.cv li + li {
+    margin-top: 6px;
+}
+
+.cv .label {
+    color: var(--muted);
+    font-weight: 700;
+}
+
+a {
+    color: var(--link);
+    text-underline-offset: 3px;
+}
+
+@media print {
+    :root {
+        color-scheme: light;
+        --bg: #fff;
+        --paper: #fff;
+        --text: #111;
+        --muted: #444;
+        --line: #bbb;
+        --link: #111;
+    }
+
+    body {
+        font-size: 12px;
+    }
+
+    .cv-shell {
+        max-width: none;
+        padding: 0;
+    }
+
+    .topbar {
+        display: none;
+    }
+
+    .cv {
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+}
