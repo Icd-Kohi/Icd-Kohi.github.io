@@ -22,14 +22,7 @@ Linux, Git, GitHub Actions, Postman, Docker, AWS
 Banco de Dados:
 MySQL, PostgreSQL
 
-#### PROJETOS & EXPERIÊNCIAS
-Desenvolvimento de Software - Lyra’s Pizza Delivery
-<i> Desenvolvimento de Software Independente | 2020 – 2023
-• Desenvolvi sistema automatizado de recebimento e processamento de pedidos integrado a APIs externas.
-• Automatizei fluxos operacionais, reduzindo tarefas manuais e aumentando a eficiência em 300%.
-• Criei interface de controle e monitoramento de pedidos em tempo real.
-• Estruturei sistema com foco em confiabilidade e escalabilidade.
-Tecnologias: Java, JavaFX, Angular, MySQL, REST APIs
+#### PROJETOS
 
 ###### Projetos Técnicos
 Detecção de proximidade com alerta sonoro
@@ -43,10 +36,10 @@ Tecnologias: C, Arduino Uno, sensor de proximidade, atuadores (buzzer)
 
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação
-Universidade do Estado do Rio de Janeiro (UERJ)
-Conclusão esperada em: Julho de 2028
+<i> Universidade do Estado do Rio de Janeiro (UERJ)
+<i> Conclusão esperada em: Julho de 2028
 Ensino Técnico em Eletrônica
-FAETEC
+<i> FAETEC
 
 #### IDIOMAS
 Português: Nativo
