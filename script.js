@@ -216,11 +216,12 @@ const renderResume = (source) => {
 };
 
 const showCurrentResume = () => {
+    // ------------------------------------------v  Change render to `englishResume` when Electronics, or `englishWebResume` when Web.
     renderResume(currentLanguage === 'pt' ? portugueseResume : englishWebResume);
     langButton.textContent = currentLanguage === 'pt' ? '[ english ]' : '[ pt-BR ]';
     document.documentElement.lang = currentLanguage === 'pt' ? 'pt-BR' : 'en';
 };
-
+// Change to 'curriculo.md' when Electronics, 'curriculo-web.md' when web
 fetch('curriculo-web.md')
     .then((response) => {
         if (!response.ok) throw new Error('Could not load curriculo.md');
