@@ -24,9 +24,10 @@ Outras:
 Scripts de automação, Aplicações CLI, Estruturas de dados
 
 #### PROJETOS
-[Gerador de Orçamentos](https://github.com/Icd-Kohi/service-budget)
-    • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e integração com servidor HTTPS Caddy.
-Monitor de preços dinâmico
+Gerador de Orçamentos:
+<i> https://github.com/Icd-Kohi/service-budget
+    • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e HTTPS via Caddy.
+Monitor de preços dinâmico:
 • Aplicação com interface CLI utilizando JavaScript assíncrono.
 • Implementação de requisições periódicas para monitoramento de preços de produtos via API.
 Outros:
@@ -38,7 +39,7 @@ Outros:
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação
 <i> Universidade do Estado do Rio de Janeiro (UERJ)
-<i> Conclusão esperada em: julho de 2028
+<i> Conclusão esperada em: dezembro de 2028
 Técnico em Eletrônica
 <i> FAETEC
 

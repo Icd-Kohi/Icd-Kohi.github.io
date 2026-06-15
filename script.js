@@ -37,7 +37,7 @@ Technologies: C, Arduino Uno, proximity sensor, actuators (buzzer)
 #### EDUCATION
 Bachelor's Degree in Computer Science
 <i> Rio de Janeiro State University (UERJ)
-<i> Expected graduation: July 2028
+<i> Expected graduation: Dec 2028
 Technical Degree in Electronics
 <i> FAETEC
 
@@ -72,9 +72,10 @@ Other:
 Automation scripts, CLI applications, data structures
 
 #### PROJECTS
-[Budget Generator](https://github.com/Icd-Kohi/service-budget)
+Budget Generator:
+<i> https://github.com/Icd-Kohi/service-budget
 • Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server.
-Dynamic Price Monitor
+Dynamic Price Monitor:
 • CLI application using asynchronous JavaScript.
 • Implemented periodic requests to monitor product prices via API.
 
@@ -88,7 +89,7 @@ Other Projects:
 
 Bachelor’s Degree in Computer Science
 <i> State University of Rio de Janeiro (UERJ)
-<i> Expected graduation: July 2028
+<i> Expected graduation: Dec 2028
 
 Technical Degree in Electronics
 <i> FAETEC
@@ -104,28 +105,34 @@ const langButton = document.querySelector('#lang');
 let portugueseResume = '';
 let currentLanguage = 'pt';
 
+const treatHeaders = (line) => line.replace(/^#+\s*/, '').trim();
+
 // text to link 
+
 const linkify = (text) => {
     const fragment = document.createDocumentFragment();
-    const matcher = /(https?:\/\/\S+)|([\w.+-]+@[\w.-]+\.\w+)/g;
-    let lastIndex = 0;
-    let match;
+    const regex = /https?:\/\/\S+|[\w.+-]+@[\w.-]+\.\w+/g;
 
-    while ((match = matcher.exec(text)) !== null) {
-        fragment.append(document.createTextNode(text.slice(lastIndex, match.index)));
+    let last = 0;
 
+    for (const match of text.matchAll(regex)) {
         const value = match[0];
-        const link = document.createElement('a');
-        link.href = value.includes('@') ? `mailto:${value}` : value;
+
+        fragment.append(text.slice(last, match.index));
+
+        const link = document.createElement("a");
+        link.href = value.startsWith("http") ? value : `mailto:${value}`;
         link.textContent = value;
+
         fragment.append(link);
 
-        lastIndex = matcher.lastIndex;
+        last = match.index + value.length;
     }
 
-    fragment.append(document.createTextNode(text.slice(lastIndex)));
+    fragment.append(text.slice(last));
     return fragment;
 };
+
 
 const appendText = (parent, tag, text, className = '') => {
     const element = document.createElement(tag);
@@ -135,7 +142,6 @@ const appendText = (parent, tag, text, className = '') => {
     return element;
 };
 
-const normalizeHeading = (line) => line.replace(/^#+\s*/, '').trim();
 
 const renderLines = (parent, lines) => {
     let list = null;
@@ -144,12 +150,14 @@ const renderLines = (parent, lines) => {
         const text = line.trim();
         if (!text) return;
 
-        const italic = text.match(/^<i>\s+/);
-        if (italic) {
+        if (/^<i>\s+/.test(text)) {
             const italicEl= document.createElement('i');
+
             italicEl.className = 'italic-size';
             italicEl.style = 'font-size:12px';
+
             appendText(italicEl, null, text.replace(/^<i>\s+/, ''));
+
             parent.append(italicEl);
             parent.append(document.createElement('br'));
             return;
@@ -176,53 +184,49 @@ const renderLines = (parent, lines) => {
             return;
         }
 
+
         appendText(parent, 'p', text);
     });
 };
 
 const renderResume = (source) => {
-    const lines = source.split(/\r?\n/);
-    const headerLines = [];
-    const sections = [];
-    let section = null;
+    const [headerBlock, ...sectionBlocks] = source.split(/\r?\n(?=#{4,6}\s+)/);
+    const [name = "", subtitle = "", ...contacts] = headerBlock.split(/\r?\n/);
 
-    lines.forEach((line) => {
-        if (/^#{4,6}\s+/.test(line)) {
-            section = { title: normalizeHeading(line), lines: [] };
-            sections.push(section);
-            return;
-        }
-        if (section) {
-            section.lines.push(line);
-        } else {
-            headerLines.push(line);
-        }
-    });
+    cv.replaceChildren();
 
-    cv.textContent = '';
-    appendText(cv, 'h1', headerLines[0] || '');
-    appendText(cv, 'p', headerLines[1] || '', 'subtitle');
+    appendText(cv, "h1", name);
+    appendText(cv, "p", subtitle, "subtitle");
 
-    const contact = document.createElement('div');
-    contact.className = 'contact';
-    headerLines.slice(2).filter(Boolean).forEach((line) => appendText(contact, 'p', line));
+    const contact = document.createElement("div");
+    contact.className = "contact";
+
+    contacts
+        .filter(Boolean)
+        .forEach((line) => appendText(contact, "p", line));
+
     cv.append(contact);
 
-    sections.forEach(({ title, lines: sectionLines }) => {
-        const element = document.createElement('section');
-        appendText(element, 'h2', title);
-        renderLines(element, sectionLines);
-        cv.append(element);
+    sectionBlocks.forEach((block) => {
+        const [header, ...lines] = block.split(/\r?\n/);
+
+        const section = document.createElement("section");
+        appendText(section, "h2", treatHeaders(header));
+        renderLines(section, lines);
+
+        cv.append(section);
     });
 };
 
+
 const showCurrentResume = () => {
-    // ------------------------------------------v  Change render to `englishResume` when Electronics, or `englishWebResume` when Web.
+    // ------------------------------------------v`englishResume` when Electronics, or `englishWebResume` when Web.
     renderResume(currentLanguage === 'pt' ? portugueseResume : englishWebResume);
     langButton.textContent = currentLanguage === 'pt' ? '[ english ]' : '[ pt-BR ]';
     document.documentElement.lang = currentLanguage === 'pt' ? 'pt-BR' : 'en';
 };
-// Change to 'curriculo.md' when Electronics, 'curriculo-web.md' when web
+
+// 'curriculo.md' when Electronics, 'curriculo-web.md' when web
 fetch('curriculo-web.md')
     .then((response) => {
         if (!response.ok) throw new Error('Could not load curriculo.md');
@@ -232,9 +236,6 @@ fetch('curriculo-web.md')
         portugueseResume = text;
         showCurrentResume();
     })
-    .catch(() => {
-        cv.textContent = 'could not load curriculo.md';
-    });
 
 langButton.addEventListener('click', () => {
     currentLanguage = currentLanguage === 'pt' ? 'en' : 'pt';
