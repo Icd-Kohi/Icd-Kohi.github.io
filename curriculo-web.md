@@ -24,6 +24,8 @@ Outras:
 Scripts de automação, Aplicações CLI, Estruturas de dados
 
 #### PROJETOS
+(Gerador de Orçamentos)[https://github.com/Icd-Kohi/service-budget]
+    • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e integração com servidor HTTPS Caddy.
 Monitor de preços dinâmico
 • Aplicação com interface CLI utilizando JavaScript assíncrono.
 • Implementação de requisições periódicas para monitoramento de preços de produtos via API.
