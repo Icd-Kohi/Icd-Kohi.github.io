@@ -41,7 +41,7 @@ Bacharel em Ciências da Computação
 <i> Universidade do Estado do Rio de Janeiro (UERJ)
 <i> Conclusão esperada em: dezembro de 2028
 Técnico em Eletrônica
-<i> FAETEC
+<i> Concluído.
 
 #### IDIOMAS
 Portuguese: Nativo

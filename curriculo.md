@@ -44,9 +44,8 @@ Tecnologias: C, Arduino Uno, sensor de proximidade, atuadores (buzzer)
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação
 Universidade do Estado do Rio de Janeiro (UERJ)
-Conclusão esperada em: Julho de 2028
+Conclusão esperada em: Dezembro de 2028
 Ensino Técnico em Eletrônica
-FAETEC
 
 #### IDIOMAS
 Português: Nativo

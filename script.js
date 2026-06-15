@@ -39,7 +39,6 @@ Bachelor's Degree in Computer Science
 <i> Rio de Janeiro State University (UERJ)
 <i> Expected graduation: Dec 2028
 Technical Degree in Electronics
-<i> FAETEC
 
 #### LANGUAGES
 Portuguese: Native
@@ -92,7 +91,7 @@ Bachelor’s Degree in Computer Science
 <i> Expected graduation: Dec 2028
 
 Technical Degree in Electronics
-<i> FAETEC
+<i> Concluído.
 
 #### LANGUAGES
 
