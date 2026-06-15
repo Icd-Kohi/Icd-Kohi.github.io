@@ -72,7 +72,8 @@ Other:
 Automation scripts, CLI applications, data structures
 
 #### PROJECTS
-
+(Budget Generator)[https://github.com/Icd-Kohi/service-budget] 
+• Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server.
 Dynamic Price Monitor
 • CLI application using asynchronous JavaScript.
 • Implemented periodic requests to monitor product prices via API.
