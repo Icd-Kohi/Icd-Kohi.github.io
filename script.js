@@ -52,7 +52,7 @@ GitHub: https://github.com/Icd-Kohi
 #### PROFESSIONAL SUMMARY
 
 Computer Science student with hands-on experience in backend system development using Java (Spring Boot) and web applications with Angular.
-Worked on the creation of real-world solutions with direct impact on business operations, including order automation and API integration. 
+Worked on the creation of real-world solutions with direct impact on business operations, including process automation and API development and integration. 
 Strong knowledge of Linux, relational databases, and scalable application development. 
 Seeking an opportunity to apply and expand my skills in software engineering.
 
@@ -60,15 +60,15 @@ Seeking an opportunity to apply and expand my skills in software engineering.
 Languages:
 Java, C, C++, C#, Rust, Python, JavaScript, TypeScript
 Backend & Frameworks:
-Spring Boot, Quarkus, JavaFX, JUnit, Node.js, REST APIs
+Spring Boot, JUnit, Node.js
 Frontend:
 Angular, HTML5, CSS3, Sass
 Databases:
 MySQL, PostgreSQL
 Tools & Platforms:
-Git, GitHub Actions, Postman, Linux, Docker, AWS, Office 365
+Git, GitHub Actions, Postman, Linux, Docker, AWS
 Other:
-Automation scripts, CLI applications, data structures
+Automation scripts, CLI applications, data structures, AGILE, REST APIs
 
 #### PROJECTS
 Budget Generator:
@@ -81,8 +81,8 @@ Dynamic Price Monitor:
 Other Projects:
 • Windows window-pinning tool (Java).
 • CLI tools for file manipulation and I/O (Java).
-• Multi-threaded HTTP server (Rust).
-• Interpreter for a simple programming language (Java).
+• Multi-thread HTTP server (Rust).
+• Interpreter for a custom programming language (Java).
 
 #### EDUCATION
 
@@ -91,7 +91,7 @@ Bachelor’s Degree in Computer Science
 <i> Expected graduation: Dec 2028
 
 Technical Degree in Electronics
-<i> Concluído.
+<i> Completed.
 
 #### LANGUAGES
 

@@ -5,7 +5,7 @@ GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 Estudante de Ciência da Computação com experiência prática no desenvolvimento de sistemas backend em Java (Spring Boot) e aplicações web com Angular.
-Atuei na criação de soluções reais com impacto direto em operações comerciais, incluindo automação de pedidos e integração com APIs.
+Atuei na criação de soluções reais com impacto direto em operações comerciais, incluindo automação de processos e também desenvolvimento e integração de APIs.
 Possuo sólidos conhecimentos em Linux, bancos de dados relacionais e desenvolvimento de aplicações escaláveis. 
 Busco oportunidade para aplicar e expandir minhas habilidades em engenharia de software.
 
@@ -13,15 +13,15 @@ Busco oportunidade para aplicar e expandir minhas habilidades em engenharia de s
 Linguagens:
 Java, C, C++, C#, Rust, Python, Javascript, Typescript
 Backend & Frameworks:
-Spring Boot, Quarkus, JavaFX, Junit, Node.js, REST APIs
+Spring Boot, Junit, Node.js 
 Frontend:
 Angular, HTML5, CSS3, Sass
 Banco de Dados:
 MySQL, PostgreSQL
 Ferramentas & Plataformas:
-Git, GitHub Actions, Postman, Linux, Docker, AWS, Office365
+Git, GitHub Actions, Postman, Linux, Docker, AWS
 Outras:
-Scripts de automação, Aplicações CLI, Estruturas de dados
+Scripts de automação, Aplicações CLI, Estruturas de dados, AGILE, REST APIs
 
 #### PROJETOS
 Gerador de Orçamentos:
@@ -34,7 +34,7 @@ Outros:
 • Fixador de janelas windows (Java).
 • Ferramentas CLI para manipulação de arquivos e I/O (Java).
 • Servidor HTTP multi-thread (Rust).
-• Interpretador para uma linguagem de programação simples (Java).
+• Interpretador de uma linguagem de programação customizada (Java).
 
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação
