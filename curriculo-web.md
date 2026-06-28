@@ -1,12 +1,12 @@
 LUAN SILVA AGUIAR
-Desenvolvedor de Software | Java Backend | Spring Boot | Angular
+Estudante de Ciência da Computação | Backend Java | Spring Boot | Angular
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 Estudante de Ciência da Computação com experiência prática no desenvolvimento de sistemas backend em Java (Spring Boot) e aplicações web com Angular.
 Atuei na criação de soluções reais com impacto direto em operações comerciais, incluindo automação de processos e também desenvolvimento e integração de APIs.
-Possuo sólidos conhecimentos em Linux, bancos de dados relacionais e desenvolvimento de aplicações escaláveis. 
+Possuo boa base em Linux, bancos de dados relacionais, APIs REST, Docker e desenvolvimento backend.
 Busco oportunidade para aplicar e expandir minhas habilidades em engenharia de software.
 
 #### HABILIDADES TÉCNICAS
@@ -26,15 +26,14 @@ Scripts de automação, Aplicações CLI, Estruturas de dados, AGILE, REST APIs
 #### PROJETOS
 Gerador de Orçamentos:
 <i> https://github.com/Icd-Kohi/service-budget
-    • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e HTTPS via Caddy.
+• Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e deploy com HTTPS via Caddy. Implementação de APIs REST, persistência relacional, autenticação e integração entre frontend e backend.
+
 Monitor de preços dinâmico:
 • Aplicação com interface CLI utilizando JavaScript assíncrono.
 • Implementação de requisições periódicas para monitoramento de preços de produtos via API.
-Outros:
-• Fixador de janelas windows (Java).
-• Ferramentas CLI para manipulação de arquivos e I/O (Java).
-• Servidor HTTP multi-thread (Rust).
-• Interpretador de uma linguagem de programação customizada (Java).
+
+Projetos complementares: 
+• Servidor HTTP multi-thread em Rust, Interpretador de linguagem customizada em Java, Ferramentas CLI e automações.
 
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação

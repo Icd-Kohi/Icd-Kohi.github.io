@@ -45,7 +45,7 @@ Portuguese: Native
 English: C1 - Advanced (Speaking, Reading, Writing)`;
 
 const englishWebResume = `LUAN SILVA AGUIAR
-Software Developer | Java Backend | Spring Boot | Angular
+Computer Science Student | Java Backend | Spring Boot | Angular
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
@@ -53,7 +53,7 @@ GitHub: https://github.com/Icd-Kohi
 
 Computer Science student with hands-on experience in backend system development using Java (Spring Boot) and web applications with Angular.
 Worked on the creation of real-world solutions with direct impact on business operations, including process automation and API development and integration. 
-Strong knowledge of Linux, relational databases, and scalable application development. 
+Knowledge in Linux, relational databases, REST APIs, Docker and Backend development. 
 Seeking an opportunity to apply and expand my skills in software engineering.
 
 #### TECHNICAL SKILLS
@@ -73,16 +73,14 @@ Automation scripts, CLI applications, data structures, AGILE, REST APIs
 #### PROJECTS
 Budget Generator:
 <i> https://github.com/Icd-Kohi/service-budget
-• Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server.
+• Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server. REST APIs implementation, relational persistence, authenticatoin, frontend and backend integration.
+
 Dynamic Price Monitor:
 • CLI application using asynchronous JavaScript.
 • Implemented periodic requests to monitor product prices via API.
 
-Other Projects:
-• Windows window-pinning tool (Java).
-• CLI tools for file manipulation and I/O (Java).
-• Multi-thread HTTP server (Rust).
-• Interpreter for a custom programming language (Java).
+Complementary Projects:
+• Multi-thread HTTP server (Rust), Interpreter for a custom programming language (Java), CLI tools and automations.
 
 #### EDUCATION
 
