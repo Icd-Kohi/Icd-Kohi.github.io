@@ -15,7 +15,7 @@ body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font: 16px/1.58 ui-monospace, SFMono-Regular, Consolas, monospace;
+    font: 16px/1.58 "Titillium Web", ui-monospace, SFMono-Regular, Consolas, monospace;
     min-height:100vh;
 }
 
