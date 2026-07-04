@@ -100,7 +100,7 @@ const cv = document.querySelector('#cv');
 const langButton = document.querySelector('#lang');
 
 let portugueseResume = '';
-let currentLanguage = 'pt';
+let currentLanguage = '';
 
 const treatHeaders = (line) => line.replace(/^#+\s*/, '').trim();
 

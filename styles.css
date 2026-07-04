@@ -10,11 +10,20 @@
 * {
     box-sizing: border-box;
 }
+
 body {
     margin: 0;
     background: var(--bg);
     color: var(--text);
     font: 16px/1.58 ui-monospace, SFMono-Regular, Consolas, monospace;
+    min-height:100vh;
+}
+
+pre {
+    font-size: 3px;
+}
+pre.center-title{
+    font-size: 15px;
 }
 
 .cv-shell {
@@ -22,6 +31,37 @@ body {
     margin: 0 auto;
     padding: 24px;
 }
+
+.paragraph{
+    padding:10px;
+}
+
+.parent {
+    display: flex;
+}
+
+.intro {
+   display: inline;
+    padding-top: 125px;
+    padding-right: 250px;
+    text-align: center;
+}
+
+.center {
+    display:flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.center-title{
+    display:block;
+    text-align:center;
+}
+
+.secondary-intro{
+    text-align: center;
+    margin-top: 100px;
+    }
 
 .topbar {
     display: flex;
@@ -33,7 +73,7 @@ body {
     padding-bottom: 12px;
 }
 
-button {
+.click{
     flex: 0 0 auto;
     background: var(--bg);
     color: var(--text);
@@ -41,10 +81,11 @@ button {
     padding: 6px 10px;
     font: inherit;
     cursor: pointer;
+    text-decoration: none;
 }
 
-button:hover,
-button:focus-visible {
+.click:hover,
+.click:focus-visible{
     background: #1b1b1b;
     outline: none;
 }
@@ -113,7 +154,15 @@ button:focus-visible {
 
 a {
     color: var(--link);
+    text-decoration: underline dotted 2px;
     text-underline-offset: 3px;
+}
+
+footer{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    min-height:50px;
 }
 
 @media print {
