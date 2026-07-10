@@ -51,7 +51,7 @@ GitHub: https://github.com/Icd-Kohi
 
 #### PROFESSIONAL SUMMARY
 
-Computer Science student with hands-on experience in full-stack system development using Java (Spring Boot).
+Computer Science student with hands-on experience in full-stack development using Java and Angular.
 Worked on the creation of real-world solutions with direct impact on business operations, including process automation and API development and integration. 
 Knowledge in Linux, relational databases, REST APIs, Docker and Backend development. 
 
@@ -107,7 +107,7 @@ const treatHeaders = (line) => line.replace(/^#+\s*/, '').trim();
 
 // text to link 
 
-const linkify = (text) => {
+function linkify(text) {
     const fragment = document.createDocumentFragment();
     const regex = /https?:\/\/\S+|[\w.+-]+@[\w.-]+\.\w+/g;
 
@@ -132,7 +132,7 @@ const linkify = (text) => {
 };
 
 
-const appendText = (parent, tag, text, className = '') => {
+function appendText(parent, tag, text, className = '') {
     const element = document.createElement(tag);
     if (className) element.className = className;
     element.append(linkify(text));
@@ -141,7 +141,7 @@ const appendText = (parent, tag, text, className = '') => {
 };
 
 
-const renderLines = (parent, lines) => {
+function renderLines (parent, lines){
     let list = null;
 
     lines.forEach((line) => {
@@ -187,7 +187,7 @@ const renderLines = (parent, lines) => {
     });
 };
 
-const renderResume = (source) => {
+function renderResume (source) {
     const [headerBlock, ...sectionBlocks] = source.split(/\r?\n(?=#{4,6}\s+)/);
     const [name = "", subtitle = "", ...contacts] = headerBlock.split(/\r?\n/);
 
@@ -217,7 +217,7 @@ const renderResume = (source) => {
 };
 
 
-const showCurrentResume = () => {
+function showCurrentResume(){
     // ------------------------------------------v`englishResume` when Electronics, or `englishWebResume` when Web.
     renderResume(currentLanguage === 'pt' ? portugueseResume : englishWebResume);
     langButton.textContent = currentLanguage === 'pt' ? '[ english ]' : '[ pt-BR ]';
