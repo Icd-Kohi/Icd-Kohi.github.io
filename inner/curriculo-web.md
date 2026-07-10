@@ -1,17 +1,17 @@
 LUAN SILVA AGUIAR
-Estudante de Ciência da Computação | Backend Java | Spring Boot | Angular
+Estudante de Ciência da Computação | Desenvolvedor Full-stack | Spring Boot | Angular
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
-Estudante de Ciência da Computação com experiência prática no desenvolvimento de sistemas backend em Java (Spring Boot) e aplicações web com Angular.
-Atuei na criação de soluções reais com impacto direto em operações comerciais, incluindo automação de processos e também desenvolvimento e integração de APIs.
-Possuo boa base em Linux, bancos de dados relacionais, APIs REST, Docker e desenvolvimento backend.
-Busco oportunidade para aplicar e expandir minhas habilidades em engenharia de software.
+
+Estudante de Ciência da Computação na UERJ, com foco em desenvolvimento de software web e aplicações full-stack.
+Experiência prática no desenvolvimento de aplicações com Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
+Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos. Busco oportunidade de estágio em desenvolvimento de software para aplicar e expandir minhas habilidades em engenharia de software, backend, frontend e integração de sistemas.
 
 #### HABILIDADES TÉCNICAS
 Linguagens:
-Java, C, C++, C#, Rust, Python, Javascript, Typescript
+Java, Javascript, Typescript, C, C++, C#, Rust, Python
 Backend & Frameworks:
 Spring Boot, Junit, Node.js 
 Frontend:
@@ -27,10 +27,13 @@ Scripts de automação, Aplicações CLI, Estruturas de dados, AGILE, REST APIs
 Gerador de Orçamentos:
 <i> https://github.com/Icd-Kohi/service-budget
 • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e deploy com HTTPS via Caddy. Implementação de APIs REST, persistência relacional, autenticação e integração entre frontend e backend.
+<i> Tecnologias: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
 Monitor de preços dinâmico:
-• Aplicação com interface CLI utilizando JavaScript assíncrono.
-• Implementação de requisições periódicas para monitoramento de preços de produtos via API.
+• Desenvolvimento de aplicação CLI em JavaScript para monitoramento automatizado de preços via APIs.
+• Implementação de requisições assíncronas, execução periódica de tarefas e manipulação de dados.
+• Automação de processos de consulta e acompanhamento de alterações de preço.
+<i> Tecnologias: JavaScript, APIs, programação assíncrona, CLI.
 
 Projetos complementares: 
 • Servidor HTTP multi-thread em Rust, Interpretador de linguagem customizada em Java, Ferramentas CLI e automações.
