@@ -5,9 +5,8 @@ GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 
-Estudante de Ciência da Computação na UERJ, com foco em desenvolvimento de software web e aplicações full-stack.
-Experiência prática no desenvolvimento de aplicações com Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
-Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos. Busco oportunidade de estágio em desenvolvimento de software para aplicar e expandir minhas habilidades em engenharia de software, backend, frontend e integração de sistemas.
+Desenvolvedor de Full-stack com experiência prática no desenvolvimento de aplicações em Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
+Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos. 
 
 #### HABILIDADES TÉCNICAS
 Linguagens:

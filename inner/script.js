@@ -45,16 +45,15 @@ Portuguese: Native
 English: C1 - Advanced (Speaking, Reading, Writing)`;
 
 const englishWebResume = `LUAN SILVA AGUIAR
-Computer Science Student | Java Backend | Spring Boot | Angular
+Computer Science Student | Full-stack Developer | Spring Boot | Angular
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### PROFESSIONAL SUMMARY
 
-Computer Science student with hands-on experience in backend system development using Java (Spring Boot) and web applications with Angular.
+Computer Science student with hands-on experience in full-stack system development using Java (Spring Boot).
 Worked on the creation of real-world solutions with direct impact on business operations, including process automation and API development and integration. 
 Knowledge in Linux, relational databases, REST APIs, Docker and Backend development. 
-Seeking an opportunity to apply and expand my skills in software engineering.
 
 #### TECHNICAL SKILLS
 Languages:
@@ -74,10 +73,12 @@ Automation scripts, CLI applications, data structures, AGILE, REST APIs
 Budget Generator:
 <i> https://github.com/Icd-Kohi/service-budget
 • Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server. REST APIs implementation, relational persistence, authenticatoin, frontend and backend integration.
+<i> Techs: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
 Dynamic Price Monitor:
 • CLI application using asynchronous JavaScript.
 • Implemented periodic requests to monitor product prices via API.
+<i> Techs: JavaScript, APIs, Async programming, CLI.
 
 Complementary Projects:
 • Multi-thread HTTP server (Rust), Interpreter for a custom programming language (Java), CLI tools and automations.
