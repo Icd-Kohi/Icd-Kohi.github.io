@@ -119,6 +119,7 @@ function linkify(text) {
         fragment.append(text.slice(last, match.index));
 
         const link = document.createElement("a");
+        link.className = "linkify";
         link.href = value.startsWith("http") ? value : `mailto:${value}`;
         link.target = "_blank";
         link.textContent = value;

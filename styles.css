@@ -22,7 +22,8 @@ body {
 pre {
     font-size: 3px;
 }
-pre.center-title{
+
+pre.center-title {
     font-size: 15px;
 }
 
@@ -32,7 +33,7 @@ pre.center-title{
     padding: 24px;
 }
 
-.paragraph{
+.paragraph {
     padding:10px;
 }
 
@@ -53,15 +54,15 @@ pre.center-title{
    justify-content: center;
 }
 
-.center-title{
+.center-title {
     display:block;
     text-align:center;
 }
 
-.secondary-intro{
+.secondary-intro {
     text-align: center;
     margin-top: 100px;
-    }
+}
 
 .topbar {
     display: flex;
@@ -73,7 +74,7 @@ pre.center-title{
     padding-bottom: 12px;
 }
 
-.click{
+.click {
     flex: 0 0 auto;
     background: var(--bg);
     color: var(--text);
@@ -85,7 +86,7 @@ pre.center-title{
 }
 
 .click:hover,
-.click:focus-visible{
+.click:focus-visible {
     background: #1b1b1b;
     outline: none;
 }
@@ -158,7 +159,12 @@ a {
     text-underline-offset: 3px;
 }
 
-footer{
+a.linkify:hover {
+    font-weight:400;
+    color:grey;
+}
+
+footer {
     display:flex;
     align-items:center;
     justify-content:center;
