@@ -5,8 +5,9 @@ GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 
-Desenvolvedor de Full-stack com experiência prática no desenvolvimento de aplicações em Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
-Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos. 
+Desenvolvedor Full-stack com experiência prática na construção de aplicações em Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
+Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos.
+Apaixonado por tecnologia, possuo um perfil proativo, sou atento aos detalhes e consigo me adaptar rapidamente às situações.
 
 #### HABILIDADES TÉCNICAS
 Linguagens:
@@ -25,6 +26,7 @@ Scripts de automação, Aplicações CLI, Estruturas de dados, AGILE, REST APIs
 #### PROJETOS
 Gerador de Orçamentos:
 <i> https://github.com/Icd-Kohi/service-budget
+<i> https://orcamentopdf.kohee.dev/
 • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e deploy com HTTPS via Caddy. Implementação de APIs REST, persistência relacional, autenticação e integração entre frontend e backend.
 <i> Tecnologias: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
