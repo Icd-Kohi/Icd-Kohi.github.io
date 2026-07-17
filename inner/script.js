@@ -51,9 +51,11 @@ GitHub: https://github.com/Icd-Kohi
 
 #### PROFESSIONAL SUMMARY
 
-Computer Science student with hands-on experience in full-stack development using Java and Angular.
-Worked on the creation of real-world solutions with direct impact on business operations, including process automation and API development and integration. 
-Knowledge in Linux, relational databases, REST APIs, Docker and Backend development. 
+Full-stack developer currently focused in engineering software using Java, Spring Boot, Angular, REST APIs, JWT authentication, PostgreSQL and frontend, backend & database integration.
+
+I have knowledge in relational databases, Linux, Docker and process automation.
+
+Passionate about technology, I have a proactive profile, I have attention to details and can adapt quickly to situations.
 
 #### TECHNICAL SKILLS
 Languages:
@@ -76,10 +78,12 @@ Budget Generator:
 • Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server. REST APIs implementation, relational persistence, authenticatoin, frontend and backend integration.
 <i> Techs: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
-Dynamic Price Monitor:
-• CLI application using asynchronous JavaScript.
-• Implemented periodic requests to monitor product prices via API.
-<i> Techs: JavaScript, APIs, Async programming, CLI.
+2026 World Cup Simulator:
+<i> https://github.com/Icd-Kohi/worldcup-simulator
+<i> https://www.kohee.dev/worldcup-simulator/
+• Developed a modular web application that simulates a complete 32-team tournament consuming a external REST API, including group draws, fixtures, standings, knockout rounds, penalties, and champion selection.
+• Implemented the Fisher–Yates algorithm, round-robin fixture scheduling, weighted score generation, tiebreaker rules, and knockout bracket progression.
+<i> Techs: HTML5, CSS3, JavaScript , ES Modules , DOM , JSON , Responsive Design , Git
 
 Complementary Projects:
 • Multi-thread HTTP server (Rust), Interpreter for a custom programming language (Java), CLI tools and automations.

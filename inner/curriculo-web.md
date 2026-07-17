@@ -30,11 +30,13 @@ Gerador de Orçamentos:
 • Desenvolvimento de aplicação full-stack para criação, edição e download de orçamentos em PDF, com backend em Java/Spring Boot, frontend em Angular, autenticação JWT, PostgreSQL e deploy com HTTPS via Caddy. Implementação de APIs REST, persistência relacional, autenticação e integração entre frontend e backend.
 <i> Tecnologias: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
-Monitor de preços dinâmico:
-• Desenvolvimento de aplicação CLI em JavaScript para monitoramento automatizado de preços via APIs.
-• Implementação de requisições assíncronas, execução periódica de tarefas e manipulação de dados.
-• Automação de processos de consulta e acompanhamento de alterações de preço.
-<i> Tecnologias: JavaScript, APIs, programação assíncrona, CLI.
+Simulador da Copa do Mundo 2026:
+<i> https://github.com/Icd-Kohi/worldcup-simulator
+<i> https://www.kohee.dev/worldcup-simulator/
+• Desenvolveu aplicação web modular para simular um torneio completo com 32 seleções, consumindo a API REST para carregar os times participantes.
+• Implementou sorteio de grupos com Fisher-Yates, partidas em formato round-robin, classificação, critérios de desempate, mata-mata e decisões por pênaltis.
+• Separou as regras de negócio da interface, realizou renderização dinâmica do DOM e criou layout responsivo com CSS Grid, Flexbox e media queries.
+<i> Tecnologias: HTML5, CSS3, JavaScript, REST APIs, JSON, Git
 
 Projetos complementares: 
 • Servidor HTTP multi-thread em Rust, Interpretador de linguagem customizada em Java, Ferramentas CLI e automações.
