@@ -75,7 +75,7 @@ Automation scripts, CLI applications, data structures, AGILE, REST APIs
 Budget Manager:
 <i> https://github.com/Icd-Kohi/service-budget
 <i> https://orcamentopdf.kohee.dev/
-• Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server. REST APIs implementation, relational persistence, authenticatoin, frontend and backend integration.
+• Developed a full-stack application for creating, editing, and downloading budget estimates as PDFs, using Java/Spring Boot backend, Angular frontend, JWT authentication, PostgreSQL, and HTTPS integration with Caddy server. REST APIs implementation, relational persistence, authentication, frontend and backend integration.
 <i> Techs: Java, Spring Boot, Angular, PostgreSQL, JWT, REST APIs, Caddy, Git.
 
 2026 World Cup Simulator:
