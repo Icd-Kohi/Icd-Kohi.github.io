@@ -51,21 +51,21 @@ GitHub: https://github.com/Icd-Kohi
 
 #### PROFESSIONAL SUMMARY
 
-Full-stack developer currently focused in engineering software using Java, Spring Boot, Angular, REST APIs, JWT authentication, PostgreSQL and frontend, backend & database integration.
+Full-stack developer currently engineering software using Java, Angular and PostgreSQL.
 
 I have knowledge in relational databases, Linux, Docker and process automation.
 
-Passionate about technology, I have a proactive profile, I have attention to details and can adapt quickly to situations.
+Passionate about technology, I have a proactive profile, I have attention to details and can adapt quickly to situations and new tools.
 
 #### TECHNICAL SKILLS
 Languages:
-Java, C, C++, C#, Rust, Python, JavaScript, TypeScript
+Java, C#, JavaScript, TypeScript, Python
 Backend & Frameworks:
 Spring Boot, JUnit, Node.js
 Frontend:
-Angular, HTML5, CSS3, Sass
+Angular, HTML5, CSS3
 Databases:
-MySQL, PostgreSQL
+MySQL, PostgreSQL, MongoDB
 Tools & Platforms:
 Git, GitHub Actions, Postman, Linux, Docker, AWS
 Other:
