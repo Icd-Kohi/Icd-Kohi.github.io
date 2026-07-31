@@ -5,17 +5,17 @@ GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 
-Desenvolvedor Full-stack com experiência prática na construção de aplicações em Java, Spring Boot, Angular, APIs REST, autenticação JWT, PostgreSQL e integração entre frontend, backend e banco de dados.
+Desenvolvedor Full-stack com experiência prática na construção de aplicações em Java, Spring Boot, Angular e PostgreSQL. 
 Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos.
-Apaixonado por tecnologia, possuo um perfil proativo, sou atento aos detalhes e consigo me adaptar rapidamente às situações.
+Apaixonado por tecnologia, possuo um perfil proativo, sou atento aos detalhes e consigo me adaptar rapidamente às situações e novas ferramentas.
 
 #### HABILIDADES TÉCNICAS
 Linguagens:
-Java, Javascript, Typescript, C, C++, C#, Rust, Python
+Java, Javascript, Typescript, C#, Python
 Backend & Frameworks:
 Spring Boot, Junit, Node.js 
 Frontend:
-Angular, HTML5, CSS3, Sass
+Angular, HTML5, CSS3
 Banco de Dados:
 MySQL, PostgreSQL
 Ferramentas & Plataformas:
