@@ -65,9 +65,9 @@ Spring Boot, JUnit, Node.js
 Frontend:
 Angular, HTML5, CSS3
 Databases:
-MySQL, PostgreSQL, MongoDB
+SQL, MySQL, PostgreSQL, MongoDB
 Tools & Platforms:
-Git, GitHub Actions, Postman, Linux, Docker, AWS
+Git, GitHub Actions, Postman, Linux, Docker, AWS, LLMs/Agentic Programming.
 Other:
 Automation scripts, CLI applications, data structures, AGILE, REST APIs
 

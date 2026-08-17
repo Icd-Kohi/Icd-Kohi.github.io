@@ -17,9 +17,9 @@ Spring Boot, Junit, Node.js
 Frontend:
 Angular, HTML5, CSS3
 Banco de Dados:
-MySQL, PostgreSQL
+SQL, MySQL, PostgreSQL
 Ferramentas & Plataformas:
-Git, GitHub Actions, Postman, Linux, Docker, AWS
+Git, GitHub Actions, Postman, Linux, Docker, AWS, LLMs/Agentic Programming
 Outras:
 Scripts de automação, Aplicações CLI, Estruturas de dados, AGILE, REST APIs
 
@@ -39,7 +39,7 @@ Simulador da Copa do Mundo 2026:
 <i> Tecnologias: HTML5, CSS3, JavaScript, REST APIs, JSON, Git
 
 Projetos complementares: 
-• Servidor HTTP multi-thread em Rust, Interpretador de linguagem customizada em Java, Ferramentas CLI e automações.
+• Servidor HTTP multi-thread em Rust, Interpretador de linguagem de programação customizada em Java, Ferramentas CLI e automações.
 
 #### EDUCAÇÃO
 Bacharel em Ciências da Computação

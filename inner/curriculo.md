@@ -18,7 +18,7 @@ Lógica digital, eletrônica básica, sistemas computacionais
 Backend:
 Spring Boot, Node.js, REST APIs
 Ferramentas:
-Linux, Git, GitHub Actions, Postman, Docker, AWS
+Linux, Git, GitHub Actions, Postman, Docker, AWS, LLMs & Agentic Programming
 Banco de Dados:
 MySQL, PostgreSQL
 
