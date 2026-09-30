@@ -1,11 +1,11 @@
 LUAN SILVA AGUIAR
-Estudante de Ciência da Computação | Desenvolvedor Full-stack | Spring Boot | Angular
+Estudante de Ciência da Computação | Desenvolvedor de Software | Java
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### RESUMO PROFISSIONAL
 
-Desenvolvedor Full-stack com experiência prática na construção de aplicações em Java, Spring Boot, Angular e PostgreSQL. 
+Desenvolvedor de Software com experiência prática na construção de aplicações em Java, Spring Boot, Angular e PostgreSQL. 
 Possuo conhecimentos em bancos de dados relacionais, Linux, Docker e automação de processos.
 Apaixonado por tecnologia, possuo um perfil proativo, sou atento aos detalhes e consigo me adaptar rapidamente às situações e novas ferramentas.
 
