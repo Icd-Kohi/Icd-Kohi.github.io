@@ -45,13 +45,13 @@ Portuguese: Native
 English: C1 - Advanced (Speaking, Reading, Writing)`;
 
 const englishWebResume = `LUAN SILVA AGUIAR
-Computer Science Student | Full-stack Developer | Spring Boot | Angular
+Computer Science Student | Software Developer | Java
 Email: kohee.swe@gmail.com
 GitHub: https://github.com/Icd-Kohi
 
 #### PROFESSIONAL SUMMARY
 
-Full-stack developer currently engineering software using Java, Angular and PostgreSQL.
+Software developer currently working with Java, Angular and PostgreSQL.
 
 I have knowledge in relational databases, Linux, Docker and process automation.
 
