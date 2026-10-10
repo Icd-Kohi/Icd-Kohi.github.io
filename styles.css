@@ -47,11 +47,27 @@ pre.center-title {
     padding-right: 250px;
     text-align: center;
 }
+@media (max-width: 700px){
+    .intro{
+        display: block;
+        padding-right: 0;
+        justify-content: center;
+    }
+    .parent{
+        display: block;
+    }
+}
 
 .center {
     display:flex;
-   align-items: center;
-   justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 700px){
+    .center{
+        display:none;
+    }
 }
 
 .center-title {
@@ -170,6 +186,7 @@ footer {
     justify-content:center;
     min-height:50px;
 }
+
 
 @media print {
     :root {
