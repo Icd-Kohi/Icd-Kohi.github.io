@@ -15,7 +15,7 @@ Java, Javascript, Typescript, C#, Python
 Backend & Frameworks:
 Spring Boot, Junit, Node.js 
 Frontend:
-Angular, HTML5, CSS3
+Angular, React, HTML5, CSS3
 Banco de Dados:
 SQL, MySQL, PostgreSQL
 Ferramentas & Plataformas:
