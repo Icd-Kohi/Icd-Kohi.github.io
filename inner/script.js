@@ -63,7 +63,7 @@ Java, C#, JavaScript, TypeScript, Python
 Backend & Frameworks:
 Spring Boot, JUnit, Node.js
 Frontend:
-Angular, HTML5, CSS3
+Angular, React, HTML5, CSS3
 Databases:
 SQL, MySQL, PostgreSQL, MongoDB
 Tools & Platforms:
